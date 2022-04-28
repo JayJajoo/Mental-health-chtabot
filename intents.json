@@ -335,28 +335,6 @@
         "What do you call a sleeping bull?<br>Bulldozer",
         "When is the best time to go to the dentist?<br>Tooth-hurty"
       ]
-    },
-    {
-      "tag":"harm_false",
-      "patterns":[
-        "no i never tried doind harm tio myself",
-        "no i never harmed myself intentionally",
-        "Never tried suicide"
-      ]
-    },
-    {
-      "tag":"joke",
-      "patterns":[
-        "tell me a joke",
-        "yes please tell me a joke",
-        "ya  sure tell a joke",
-        "i want to hear a joke"
-      ],
-      "responses":[
-        "What do you call an alligator in a vest?<br>Investigator",
-        "What do you call a sleeping bull?<br>Bulldozer",
-        "When is the best time to go to the dentist?<br>Tooth-hurty"
-      ]
     }
   ]
 }
