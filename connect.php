@@ -4,7 +4,7 @@
     $email=$_POST['email'];
     $message=$_POST['message'];
     if($conn->connect_error){
-        echo "lodu";
+        echo "error";
     }
     else{
         $stmt=$conn->prepare("insert into users(name,email,message) values(?,?,?)");
